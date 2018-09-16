@@ -16,3 +16,4 @@ class CountList:
 
         return self.value[key]
 
+print("test")
